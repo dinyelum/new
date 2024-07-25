@@ -1,2 +1,3 @@
 # new
-Testing out github.
+Testing out gitHub.
+Seems nice.
